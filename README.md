@@ -328,10 +328,10 @@ The project is natively configured for deployment on the [Vercel](https://vercel
 
 ## 10. Authors & Academic Credits
 
-This project was developed by **Paavani** and **Ria** as part of the academic curriculum for the **BSc in Applied Mathematics and Computing (AMC)** program:
+This project was developed by **Paavani Maheshwari** and **Ria Nirkhe** as part of the academic curriculum for the **BSc in Applied Mathematics and Computing (AMC)** program:
 
 - **Institution / Program:** BSc Applied Mathematics and Computing (AMC)
 - **Academic Semester:** Semester 1
 - **Course / Subject:** Foundations of Programming (FP)
-- **Project Developers:** Paavani & Ria
+- **Project Developers:** Paavani Maheshwari & Ria Nirkhe
 - **Year:** 2026
